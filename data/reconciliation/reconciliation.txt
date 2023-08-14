@@ -1,0 +1,5 @@
+DataFormat
+Just change the numbers and keep the format below
+
+사고 일시 : 2020. 9. 29. 15:35경
+사고 장소(세계측지계) : 북위 35도 30분 05초 · 동경 129도 22분 45초
